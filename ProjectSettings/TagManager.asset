@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemy
+  - End Zone
   layers:
   - Default
   - TransparentFX

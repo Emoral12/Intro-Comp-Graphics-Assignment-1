@@ -10,7 +10,6 @@ public class Enemy_Targeting : MonoBehaviour
     private NavMeshAgent agent;
     bool isWalking = true;
 
-    // Start is called before the first frame update
     void Start()
     {
         agent = GetComponent<NavMeshAgent>();
